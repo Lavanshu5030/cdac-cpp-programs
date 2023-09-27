@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695806754 source:e:\cpp programs\cpp programs\firstprogram.cpp
+	<iostream>
+
+1695806329 source:e:\cpp programs\cpp programs\checkpositiveornegative.cpp
+	<iostream>
+
